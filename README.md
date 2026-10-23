@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @staysru
-- 👀 I’m interested in anything data science, sports, or biology related!
-- 🌱 I’m currently learning python!
-- 💞️ I’m looking to collaborate on projects related to biology or sports!
-- 📫 How to reach me just send me a message/your project!
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love Sour Patch!
+- 👀 ChemE student 
+- 🌱 Python & MATLAB
+- 💞️ Energy, F1
+- 📫 send me a message
+- 😄 she/her
+- ⚡ i love sour patch
 
 <!---
 staysru/staysru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
